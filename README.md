@@ -25,4 +25,4 @@ Kemudian tak lupa siapkan laptop/komputer dengan spek boleh kentang asal jangan 
 
 Agar urut belajarnya saya buat daftar yang materinya terdapat di direktori repo ini
 
-1. Rahasia-rahasia
+1. [Rahasia-rahasia](https://github.com/hdinjos/sinau-vuejs/tree/master/01-Rahasia-rahasia)
